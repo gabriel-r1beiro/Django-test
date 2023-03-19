@@ -1,2 +1,2 @@
-# Django-test
-Estudando a biblioteca django.
+# Bem vindo!
+Estou estudado django.
