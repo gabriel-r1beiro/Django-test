@@ -1,2 +1,3 @@
 # Bem vindo!
-Estou estudado django.
+Essa e minha agenda com django.
+
