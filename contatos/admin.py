@@ -7,7 +7,7 @@ class ContatoAdmin(admin.ModelAdmin):
                      'categoria','data_criacao','mostra'
                     )
     list_display_links = ('nome', 'sobrenome',)
-    list_per_page = 10
+    list_per_page = 5
     search_fields  = ('nome','sobrenome', 'categoria')
     list_editable = ('telefone', 'mostra')
 admin.site.register(Categoria)
